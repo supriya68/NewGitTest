@@ -2,9 +2,7 @@
   <body>
       <dir>
        <ul>
-         <li>bread</li>
-         <li>butter</li>
-         <li>milk</li>
+         <li>jam</li>
        </ul>
      </dir>
    </body>
